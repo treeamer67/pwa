@@ -1,0 +1,97 @@
+
+.estilo{
+	color: black;
+	background: #D653E8;
+	border-color: pink;
+	border-style: solid;
+	margin: 20px;
+    text-align: center;
+    font-family: 'Oleo Script', cursive;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+.caja{
+	color:black ;
+	padding: 3px;
+	border-color: #A83EB7;
+	border-style: double;
+
+}
+
+.fa-cat{
+color: purple;
+background:white;
+border-color: white;
+border-style: solid;
+font-size: 80px;
+
+	
+
+
+
+}
+.estilo2{
+	border-color: pink;
+	margin: 20px;
+	color: black;
+	background: white;
+	border-style: solid;
+	text-align: center;
+	font-family: 'Oleo Script', cursive;
+    font-size: 50px;
+    text-transform: uppercase;
+
+
+}
+.tablas1{
+	color: black;
+	border-color:purple;
+	background: white; 
+	font-family: 'Oswald', sans-serif;
+
+
+}
+
+
+.fa-facebook{
+		color: white;
+		background:blue;
+		border-color: white;
+		border-style: solid;
+		font-size: 25px;
+}
+
+.caja1{
+	color:black ;
+	padding: 3px;
+	border-color: #A83EB7;
+	border-style: double;
+}
+	.text{
+	color: black;
+	font-size: 35;
+    font-family: 'Lobster', cursive;
+ 
+}
+.fa-fish{
+		color: purple;
+}
+
+
+.ubicacion{
+	text-align: center;
+
+
+}
+
+
+a:link, a:visited {
+  background-color: blue;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+

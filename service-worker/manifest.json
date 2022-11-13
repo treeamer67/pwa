@@ -1,0 +1,17 @@
+{
+    "name" : "Cats: Juguetes para Gatos",
+    "short_name" : "Cats",
+    "theme_color" : "#ffe08a",
+    "background_color" : "#ffe08a",
+    "display" : "standalone",
+    "orientation" : "portrait",
+    "scope" : "./",
+    "start_url" : "./",
+    "icons" : [
+        {
+            "src" : "./img/gatic.png",
+            "type" : "image/png",
+            "sizes" : "223x226"
+        }
+    ]
+}
